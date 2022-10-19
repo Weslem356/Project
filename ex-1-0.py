@@ -1,4 +1,1 @@
-from codecs import unicode_escape_decode
-
-
-unicode_escape_decode
+print("oi")
